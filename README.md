@@ -40,7 +40,7 @@ Start the server
 
 ## Environment Variables
 
-יש קודם לעדכן את המתשנים הבאים:
+יש קודם לעדכן את המשתנים הבאים:
 
 `--host`
 
